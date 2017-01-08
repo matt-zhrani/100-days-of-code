@@ -24,3 +24,11 @@
 **Thoughts:** I struggled with binding object reference with the view part of the project (JSP and Spring in Java). Turned out that Spring cannot map String values from the view to object reference in the model. Needed to use converter service interface using Spring. Solved!!
 
 **Link to work:** To be added..
+
+### Day 4: January 06, 2017 (Registration and Login Project)
+
+**Today's Progress**:  Continued working on the registration and login forms and fixed some bugs.
+
+**Thoughts:** Feels good to fix a persistent bug.
+
+**Link to work:** No Link
