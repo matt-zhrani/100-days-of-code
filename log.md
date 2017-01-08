@@ -32,3 +32,11 @@
 **Thoughts:** Feels good to fix a persistent bug.
 
 **Link to work:** No Link
+
+
+### Day 5: January 07, 2017 (Tasks Tracking app)
+
+**Today's Progress**:  created a database with task table. Built basic CRUD (adding, deleting, saving) using Java and Spring boot. Started working on the UI.
+**Thoughts:** I obviously spent more than an hour on this. Great learning experience.
+
+**Link to work:** https://github.com/zezoaltamoh/taskorganizer
