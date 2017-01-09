@@ -40,3 +40,11 @@
 **Thoughts:** I obviously spent more than an hour on this. Great learning experience.
 
 **Link to work:** https://github.com/zezoaltamoh/taskorganizer
+
+
+### Day 6: January 08, 2017 (Tasks Tracking app)
+
+**Today's Progress**: Continued working on Task Tracker. designed layout of the UI and successfully figured out how to display tasks stored in the DB using JSTL markups.
+**Thoughts:** One thing is that Intellij IDEA integration with Github has not been pleasant for me. It keeps referring to an old Github account that I don't use anymore. So I quit using IDEA built-in API and started using Git command line. Much better.
+
+**Link to work:** https://github.com/matt-zhrani/taskorganizer
