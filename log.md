@@ -48,3 +48,11 @@
 **Thoughts:** One thing is that Intellij IDEA integration with Github has not been pleasant for me. It keeps referring to an old Github account that I don't use anymore. So I quit using IDEA built-in API and started using Git command line. Much better.
 
 **Link to work:** https://github.com/matt-zhrani/taskorganizer
+
+
+### Day 7: January 09, 2017 (Tasks Tracking app)
+
+**Today's Progress**: Continued working on the layout of the UI to allow user to interact with the tasks (create, delete, update).
+**Thoughts:** No Thoughts.
+
+**Link to work:** https://github.com/matt-zhrani/taskorganizer
