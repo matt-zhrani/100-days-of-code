@@ -56,3 +56,11 @@
 **Thoughts:** No Thoughts.
 
 **Link to work:** https://github.com/matt-zhrani/taskorganizer
+
+
+### Day 8: January 10, 2017 (Tasks Tracking app)
+
+**Today's Progress**: implemented add, update, and delete tasks from the UI.
+**Thoughts:** No Thoughts.
+
+**Link to work:** https://github.com/matt-zhrani/taskorganizer
