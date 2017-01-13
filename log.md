@@ -64,3 +64,12 @@
 **Thoughts:** No Thoughts.
 
 **Link to work:** https://github.com/matt-zhrani/taskorganizer
+
+### Missed one day
+
+### Day 9: January 12, 2017 (Course management System)
+
+**Today's Progress**: Started planning on paper the structure of the application.
+**Thoughts:**  I think building this system as restful APIs is a good idea.
+
+**Link to work:** N.A.
