@@ -82,3 +82,11 @@
 **Thoughts:**  No thoughts.
 
 **Link to work:** N.A.
+
+
+### Day 12: January 14, 2017 (Bookmarker App)
+
+**Today's Progress**: Started on a simple Bookmarker app. Finished structuring HTML part
+**Thoughts:** N.A
+
+**Link to work:** N.A.
