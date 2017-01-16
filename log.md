@@ -67,14 +67,14 @@
 
 ### Missed one day
 
-### Day 9: January 12, 2017 (Course management System)
+### Day 10: January 12, 2017 (Course management System)
 
 **Today's Progress**: Started planning on paper the structure of the application.
 **Thoughts:**  I think building this system as restful APIs is a good idea.
 
 **Link to work:** N.A.
 
-### Day 10: January 13, 2017 (Watched a project done using TDD methodology using Cucumber)
+### Day 11: January 13, 2017 (Watched a project done using TDD methodology using Cucumber)
 
 **Today's Progress**: Watched a tutorial on Test Driven Development with Cucumber.
                       Learned about using Containers (Docker) vs Virtual Machines deployment.
@@ -84,7 +84,7 @@
 **Link to work:** N.A.
 
 
-### Day 11: January 14, 2017 (Bookmarker App)
+### Day 12: January 14, 2017 (Bookmarker App)
 
 **Today's Progress**: Started on a simple Bookmarker app. Finished structuring HTML part
 **Thoughts:** N.A
@@ -92,7 +92,7 @@
 **Link to work:** N.A.
 
 
-### Day 12: January 14, 2017 (Bookmarker App)
+### Day 13: January 15, 2017 (Bookmarker App)
 
 **Today's Progress**: worked with localStorage to store bookmarks using JavaScript. Still in progress.  
 **Thoughts:** N.A
