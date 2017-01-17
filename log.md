@@ -98,3 +98,11 @@
 **Thoughts:** N.A
 
 **Link to work:** N.A.
+
+### Day 14: January 16, 2017 (Bookmarker App)
+
+**Today's Progress**: I am finally done with this app. Today I added the JavaScript functionality to save, fetch, and delete bookmarks from localStorage.  
+**Thoughts:** I think working on JavaScript is a lot of fun! If I want to be successful with frontend programming, I will definitely need to master JavaScript.
+
+**Link to work:** github repository: https://github.com/matt-zhrani/bookmarker-app
+                       github pages: https://matt-zhrani.github.io/bookmarker-app/
