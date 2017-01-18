@@ -106,3 +106,11 @@
 
 **Link to work:** github repository: https://github.com/matt-zhrani/bookmarker-app
                        github pages: https://matt-zhrani.github.io/bookmarker-app/
+
+
+### Day 15: January 17, 2017 (learning day)
+
+**Today's Progress**: I followed JavaBrains tutorial on Java 8 Lambda on Youtube.
+**Thoughts:** Today is not a very productive day.
+
+**Link to work:** N.A
