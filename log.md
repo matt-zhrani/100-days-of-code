@@ -114,3 +114,12 @@
 **Thoughts:** Today is not a very productive day.
 
 **Link to work:** N.A
+
+
+
+### Day 16: January 18, 2017 (Course-Api)
+
+**Today's Progress**: I started a new project to manage a personal course/tutorial manager using Spring Boot.
+**Thoughts:** No Thoughts
+
+**Link to work:** https://github.com/matt-zhrani/course-api
