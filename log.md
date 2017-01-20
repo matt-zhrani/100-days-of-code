@@ -116,10 +116,17 @@
 **Link to work:** N.A
 
 
-
 ### Day 16: January 18, 2017 (Course-Api)
 
 **Today's Progress**: I started a new project to manage a personal course/tutorial manager using Spring Boot.
 **Thoughts:** No Thoughts
+
+**Link to work:** https://github.com/matt-zhrani/course-api
+
+
+### Day 17: January 19, 2017 (Course-Api)
+
+**Today's Progress**: Designed my core resources for the REST Api. (Topic, Lesson, Lecture) one-to-many relationship from left to right.
+**Thoughts:** It's getting easier to use Spring boot. I need to work on making the app a little bit more complex
 
 **Link to work:** https://github.com/matt-zhrani/course-api
