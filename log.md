@@ -130,3 +130,10 @@
 **Thoughts:** It's getting easier to use Spring boot. I need to work on making the app a little bit more complex
 
 **Link to work:** https://github.com/matt-zhrani/course-api
+
+### Day 18: January 20, 2017 (Course-Api)
+
+**Today's Progress**: built CRUD functionalities (add, delete, update, get, getAll) for Topic.
+**Thoughts:** N.A
+
+**Link to work:** https://github.com/matt-zhrani/course-api
