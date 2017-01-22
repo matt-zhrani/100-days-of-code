@@ -137,3 +137,10 @@
 **Thoughts:** N.A
 
 **Link to work:** https://github.com/matt-zhrani/course-api
+
+### Day 19: January 21, 2017 (Course-Api)
+
+**Today's Progress**: built CRUD functionalities (add, delete, update, get, getAll) for Course resource.
+**Thoughts:** N.A
+
+**Link to work:** https://github.com/matt-zhrani/course-api
