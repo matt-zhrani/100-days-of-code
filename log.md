@@ -144,3 +144,12 @@
 **Thoughts:** N.A
 
 **Link to work:** https://github.com/matt-zhrani/course-api
+
+
+### Day 20: January 22, 2017 (Course-Api)
+
+**Today's Progress**: built more Lesson entity with CRUD functionalities. Also, I established a one-to-many relationship using JPA annotations
+
+**Thoughts:** I learned a lot from this project.
+
+**Link to work:** https://github.com/matt-zhrani/course-api
