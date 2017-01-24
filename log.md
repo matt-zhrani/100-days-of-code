@@ -153,3 +153,12 @@
 **Thoughts:** I learned a lot from this project.
 
 **Link to work:** https://github.com/matt-zhrani/course-api
+
+
+### Day 21: January 23, 2017 (Course-Api)
+
+**Today's Progress**: Changed embeded Derby database to MySQL and fixed a bug
+
+**Thoughts:** To auto-generate tables from entities, you need to create the DB first.
+
+**Link to work:** https://github.com/matt-zhrani/course-api
