@@ -162,3 +162,12 @@
 **Thoughts:** To auto-generate tables from entities, you need to create the DB first.
 
 **Link to work:** https://github.com/matt-zhrani/course-api
+
+###missed a day
+### Day 22: January 25, 2017 (taskorganizer)
+
+**Today's Progress**: Added filtering capability on the tasks table on HTML using JavaScript.
+
+**Thoughts:** No Thoughts
+
+**Link to work:** https://github.com/matt-zhrani/taskorganizer
