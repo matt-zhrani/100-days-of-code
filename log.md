@@ -171,3 +171,11 @@
 **Thoughts:** No Thoughts
 
 **Link to work:** https://github.com/matt-zhrani/taskorganizer
+
+
+### Day 23: January 26, 2017 (www.freecodecamp.com)
+
+**Today's Progress**: I did some HTML/CSS exercises in my map on freecodecamp.com
+**Thoughts:** No Thoughts
+
+**Link to work:** N.A.
