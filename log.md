@@ -179,3 +179,11 @@
 **Thoughts:** No Thoughts
 
 **Link to work:** N.A.
+
+### missed a day
+### Day 24: January 28, 2017 (www.youtube.com)
+
+**Today's Progress**: exercised with a Jenkins tutorial to use it for my app's continuous integration.
+**Thoughts:** No Thoughts
+
+**Link to work:** N.A.
