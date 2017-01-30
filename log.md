@@ -187,3 +187,10 @@
 **Thoughts:** No Thoughts
 
 **Link to work:** N.A.
+
+### Day 25: January 29, 2017 (Jenkins)
+
+**Today's Progress**: Worked with Jenkins to configure a job that gets triggered on new poll to Github.
+**Thoughts:** I started to believe that Jenkins is an important CI component to have for any serious Development
+
+**Link to work:** N.A.
