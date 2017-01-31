@@ -194,3 +194,10 @@
 **Thoughts:** I started to believe that Jenkins is an important CI component to have for any serious Development
 
 **Link to work:** N.A.
+
+
+### Day 26: January 30, 2017 (UML)
+
+**Today's Progress**: Worked with UML to design basic Use-case diagram as well as Class diagram for a Health management project.
+**Thoughts:** No Thoughts.
+**Link to work:** N.A.
