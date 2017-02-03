@@ -199,5 +199,13 @@
 ### Day 26: January 30, 2017 (UML)
 
 **Today's Progress**: Worked with UML to design basic Use-case diagram as well as Class diagram for a Health management project.
-**Thoughts:** No Thoughts.
+**Thoughts:** No Thoughts
 **Link to work:** N.A.
+
+
+### missed two days
+### Day 26: Fab 02, 2017 (UML)
+
+**Today's Progress**: Started a new Chess game app. Built Tile and Piece classes.
+**Thoughts:**  I intend to practice OOP best practices from the Effective Java to build this project.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
