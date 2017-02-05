@@ -204,8 +204,15 @@
 
 
 ### missed two days
-### Day 26: Fab 02, 2017 (UML)
+### Day 27: Fab 03, 2017 (Chess Game Engine)
 
 **Today's Progress**: Started a new Chess game app. Built Tile and Piece classes.
 **Thoughts:**  I intend to practice OOP best practices from the Effective Java to build this project.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
+
+
+### Day 28: Fab 04, 2017 (Chess Game Engine)
+
+**Today's Progress**: Built the knight class including its legal moves.
+**Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
