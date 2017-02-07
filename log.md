@@ -216,3 +216,10 @@
 **Today's Progress**: Built the knight class including its legal moves.
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### missed one day
+### Day 29: Fab 06, 2017 (Chess Game Engine)
+
+**Today's Progress**: calculated edge cases for knight moves; added a BoardUtils class to keep track of particular tiles; built the Move class to address normal and attack moves.
+**Thoughts:** No Thoughts.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
