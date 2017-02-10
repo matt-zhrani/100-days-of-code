@@ -230,3 +230,10 @@
 **Today's Progress**: Added Bishop piece
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+
+### Day 31: Fab 09, 2017 (Chess Game Engine)
+
+**Today's Progress**: Built Rook and Queen objects
+**Thoughts:** No Thoughts.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
