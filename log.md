@@ -237,3 +237,9 @@
 **Today's Progress**: Built Rook and Queen objects
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### Day 32: Fab 10, 2017 (Chess Game Engine)
+
+**Today's Progress**: built Pawn object and added directionality to the Alliance object.
+**Thoughts:** No Thoughts.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
