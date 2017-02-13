@@ -243,3 +243,10 @@
 **Today's Progress**: built Pawn object and added directionality to the Alliance object.
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+
+### Day 33: Fab 11, 2017 (Chess Game Engine)
+
+**Today's Progress**: Added a King object and handled edge cases for the Pawn.
+**Thoughts:** No Thoughts.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
