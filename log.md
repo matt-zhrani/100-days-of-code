@@ -250,3 +250,10 @@
 **Today's Progress**: Added a King object and handled edge cases for the Pawn.
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### missed a day
+### Day 34: Fab 13, 2017 (Chess Game Engine)
+
+**Today's Progress**: Read up on Builder design pattern to use for the board object.
+**Thoughts:** No Thoughts.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
