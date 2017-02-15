@@ -257,3 +257,9 @@
 **Today's Progress**: Read up on Builder design pattern to use for the board object.
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### Day 35: Fab 14, 2017 (Chess Game Engine)
+
+**Today's Progress**: worked on the Board class. developed a Builder object to set pieces on board and track next move on the board.
+**Thoughts:** No Thoughts.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
