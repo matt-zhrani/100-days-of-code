@@ -263,3 +263,9 @@
 **Today's Progress**: worked on the Board class. developed a Builder object to set pieces on board and track next move on the board.
 **Thoughts:** No Thoughts.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### Day 36: Fab 15, 2017 (Chess Game Engine)
+
+**Today's Progress**: More enhancements to the Board class; created the standard board positions
+**Thoughts:** I finally got my first working test case.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
