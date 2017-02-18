@@ -269,3 +269,10 @@
 **Today's Progress**: More enhancements to the Board class; created the standard board positions
 **Thoughts:** I finally got my first working test case.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### missed a day
+### Day 37: Fab 17, 2017 (Chess Game Engine)
+
+**Today's Progress**: added Player abstract class along with White and Black players subclasses along with other helper methods.
+**Thoughts:** I finally got my first working test case.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
