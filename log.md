@@ -276,3 +276,10 @@
 **Today's Progress**: added Player abstract class along with White and Black players subclasses along with other helper methods.
 **Thoughts:** I finally got my first working test case.
 **Link to work:** https://github.com/matt-zhrani/ChessGame
+
+### missed a day
+### Day 38: Fab 19, 2017 (Chess Game Engine)
+
+**Today's Progress**: added auxiliary functions for the Player object (including Check, Check-Mate, Stale-Mate, check if a player has a scape move).
+**Thoughts:** I finally got my first working test case.
+**Link to work:** https://github.com/matt-zhrani/ChessGame
