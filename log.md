@@ -281,5 +281,12 @@
 ### Day 38: Fab 19, 2017 (Chess Game Engine)
 
 **Today's Progress**: added auxiliary functions for the Player object (including Check, Check-Mate, Stale-Mate, check if a player has a scape move).
-**Thoughts:** I finally got my first working test case.
+**Thoughts:** No Thoughts
+**Link to work:** https://github.com/matt-zhrani/ChessGame
+
+
+### Day 39: Fab 20, 2017 (Chess Game Engine)
+
+**Today's Progress**: Built the makeMove method in Player class along with minor enhancements.
+**Thoughts:** No Thoughts
 **Link to work:** https://github.com/matt-zhrani/ChessGame
